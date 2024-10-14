@@ -1,0 +1,40 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+    position: relative;
+}
+
+.container .label {
+    padding-left: 6px;
+    position: absolute;
+    top: 6px;
+    transition: 0.3s;
+    pointer-events: none;
+}
+
+.textArea {
+    font-size: 1em;
+    font-weight: 200;
+    font-family: var(--font-geist-sans);
+
+    color: rgba(var(--primary), 1);
+    width: 100%;
+    padding: 1rem;
+
+    resize: vertical;
+    outline: none;
+
+    border-radius: 1em;
+    background-color: rgba(var(--primary), 0.1);
+    border: 1px solid rgba(var(--black), 0.2);
+
+}
+
+.container .textArea:focus~.label,
+.container .textArea:valid~.label {
+    transition: 0.3s;
+    padding-left: 0;
+    transform: translateY(-28px);
+    color: rgba(var(--primary), 0.4);
+}

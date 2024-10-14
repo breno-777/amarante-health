@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    gap: 0.4em;
+
+    padding: 0.5em 0.75em;
+    background: rgba(var(--black), 0.2);
+    width: 100%;
+    max-width: 300px;
+
+    border-radius: 6px;
+    border: 1px solid rgba(var(--primary), 0.1);
+}
+
+.search_bar {
+    border: none;
+    background: transparent;
+    outline: none;
+
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.fill,
+.search_bar {
+    max-width: 100%;
+    width: 100%;
+}

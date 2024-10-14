@@ -1,0 +1,54 @@
+{
+  "name": "amarante-health",
+  "version": "1.0.0",
+  "description": "Patient data controller for amarant family services",
+  "icon": "public/images/logo.ico",
+  "private": true,
+  "main": "./main/main.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "electron": "electron .",
+    "lint": "next lint"
+  },
+  "repository": "https://github.com/breno-777/amarante-health",
+  "publish": {
+    "provider": "github",
+    "releaseType": "release"
+  },
+  "build": {
+    "appId": "com.amarante-health",
+    "productName": "Amarante Health",
+    "win": {
+      "target": "nsis"
+    },
+    "directories": {
+      "output": "dist"
+    }
+  },
+  "dependencies": {
+    "@tanstack/react-table": "^8.20.5",
+    "bootstrap": "^5.3.3",
+    "electron-updater": "^6.3.9",
+    "json-server": "^1.0.0-beta.2",
+    "next": "^14.2.11",
+    "react": "^18",
+    "react-bootstrap": "^2.10.4",
+    "react-dom": "^18",
+    "react-icons": "^5.3.0",
+    "react-virtualized": "^9.22.5",
+    "sharp": "^0.33.5",
+    "styled-components": "^6.1.13",
+    "uuidv4": "^6.2.13"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "electron": "^32.0.2",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.8",
+    "typescript": "^5"
+  }
+}

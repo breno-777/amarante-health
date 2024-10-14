@@ -1,0 +1,25 @@
+.answer_container {
+    display: flex;
+    flex-direction: column;
+    gap: 1.2em;
+}
+
+.checkBox {
+    appearance: none;
+    border: 2px solid rgba(var(--primary), 1);
+    padding: 0.6em;
+    border-radius: 6px;
+
+    align-self: start;
+}
+
+.checkBox:checked {
+    background-color: rgba(var(--primary), 1);
+}
+
+.input_parent {
+    height: 0px;
+    overflow: hidden;
+    padding-left: 1em;
+    transition: height ease 0.3s;
+}

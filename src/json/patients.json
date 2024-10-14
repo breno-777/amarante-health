@@ -1,0 +1,737 @@
+{
+  "patients": [
+    {
+      "id": "f773",
+      "status": 2,
+      "name": "Maria Azevedo",
+      "age": 21,
+      "address": "Rua Sousa",
+      "neighborhood": "Belford Roxo",
+      "phone": "+55 (21)94532-2095",
+      "payments": {
+        "last_payment": "2023-09-01",
+        "next_payment": "2023-10-01"
+      },
+      "medical_record": {
+        "observations": "",
+        "main_complaints": "",
+        "thrombosis": false,
+        "pacemaker": false,
+        "pregnant": false,
+        "diabetic": false,
+        "varicose": false,
+        "cancer": false,
+        "heart_condition": false,
+        "blood_pressure": false,
+        "smoke": false,
+        "painkillers": false,
+        "menopause": false,
+        "medication": {
+          "answer": false,
+          "details": ""
+        },
+        "severe_headache": {
+          "answer": false,
+          "details": ""
+        },
+        "autoimmune_disease": {
+          "answer": false,
+          "details": ""
+        },
+        "transplanted": {
+          "answer": false,
+          "details": ""
+        },
+        "surgical": {
+          "answer": false,
+          "details": ""
+        }
+      }
+    },
+    {
+      "id": "f73",
+      "status": 0,
+      "name": "Maria Azevedo",
+      "age": 21,
+      "address": "Rua Sousa",
+      "neighborhood": "Belford Roxo",
+      "phone": "+55 (21)94532-2095",
+      "payments": {
+        "last_payment": "2023-09-01",
+        "next_payment": "2023-10-01"
+      },
+      "medical_record": {
+        "observations": "",
+        "main_complaints": "",
+        "thrombosis": false,
+        "pacemaker": false,
+        "pregnant": false,
+        "diabetic": false,
+        "varicose": false,
+        "cancer": false,
+        "heart_condition": false,
+        "blood_pressure": false,
+        "smoke": false,
+        "painkillers": false,
+        "menopause": false,
+        "medication": {
+          "answer": false,
+          "details": ""
+        },
+        "severe_headache": {
+          "answer": false,
+          "details": ""
+        },
+        "autoimmune_disease": {
+          "answer": false,
+          "details": ""
+        },
+        "transplanted": {
+          "answer": false,
+          "details": ""
+        },
+        "surgical": {
+          "answer": false,
+          "details": ""
+        }
+      }
+    },
+    {
+      "id": "73",
+      "status": 0,
+      "name": "Maria Azevedo",
+      "age": 21,
+      "address": "Rua Sousa",
+      "neighborhood": "Belford Roxo",
+      "phone": "+55 (21)94532-2095",
+      "payments": {
+        "last_payment": "2023-09-01",
+        "next_payment": "2023-10-01"
+      },
+      "medical_record": {
+        "observations": "",
+        "main_complaints": "",
+        "thrombosis": false,
+        "pacemaker": false,
+        "pregnant": false,
+        "diabetic": false,
+        "varicose": false,
+        "cancer": false,
+        "heart_condition": false,
+        "blood_pressure": false,
+        "smoke": false,
+        "painkillers": false,
+        "menopause": false,
+        "medication": {
+          "answer": false,
+          "details": ""
+        },
+        "severe_headache": {
+          "answer": false,
+          "details": ""
+        },
+        "autoimmune_disease": {
+          "answer": false,
+          "details": ""
+        },
+        "transplanted": {
+          "answer": false,
+          "details": ""
+        },
+        "surgical": {
+          "answer": false,
+          "details": ""
+        }
+      }
+    },
+    {
+      "id": "f7733",
+      "status": 1,
+      "name": "Maria Azevedo",
+      "age": 21,
+      "address": "Rua Sousa",
+      "neighborhood": "Belford Roxo",
+      "phone": "+55 (21)94532-2095",
+      "payments": {
+        "last_payment": "2023-09-01",
+        "next_payment": "2023-10-01"
+      },
+      "medical_record": {
+        "observations": "",
+        "main_complaints": "",
+        "thrombosis": false,
+        "pacemaker": false,
+        "pregnant": false,
+        "diabetic": false,
+        "varicose": false,
+        "cancer": false,
+        "heart_condition": false,
+        "blood_pressure": false,
+        "smoke": false,
+        "painkillers": false,
+        "menopause": false,
+        "medication": {
+          "answer": false,
+          "details": ""
+        },
+        "severe_headache": {
+          "answer": false,
+          "details": ""
+        },
+        "autoimmune_disease": {
+          "answer": false,
+          "details": ""
+        },
+        "transplanted": {
+          "answer": false,
+          "details": ""
+        },
+        "surgical": {
+          "answer": false,
+          "details": ""
+        }
+      }
+    },
+    {
+      "id": "f77423",
+      "status": 0,
+      "name": "Maria Azevedo",
+      "age": 21,
+      "address": "Rua Sousa",
+      "neighborhood": "Belford Roxo",
+      "phone": "+55 (21)94532-2095",
+      "payments": {
+        "last_payment": "2023-09-01",
+        "next_payment": "2023-10-01"
+      },
+      "medical_record": {
+        "observations": "",
+        "main_complaints": "",
+        "thrombosis": false,
+        "pacemaker": false,
+        "pregnant": false,
+        "diabetic": false,
+        "varicose": false,
+        "cancer": false,
+        "heart_condition": false,
+        "blood_pressure": false,
+        "smoke": false,
+        "painkillers": false,
+        "menopause": false,
+        "medication": {
+          "answer": false,
+          "details": ""
+        },
+        "severe_headache": {
+          "answer": false,
+          "details": ""
+        },
+        "autoimmune_disease": {
+          "answer": false,
+          "details": ""
+        },
+        "transplanted": {
+          "answer": false,
+          "details": ""
+        },
+        "surgical": {
+          "answer": false,
+          "details": ""
+        }
+      }
+    },
+    {
+      "id": "f752573",
+      "status": 0,
+      "name": "Maria Azevedo",
+      "age": 21,
+      "address": "Rua Sousa",
+      "neighborhood": "Belford Roxo",
+      "phone": "+55 (21)94532-2095",
+      "payments": {
+        "last_payment": "2023-09-01",
+        "next_payment": "2023-10-01"
+      },
+      "medical_record": {
+        "observations": "",
+        "main_complaints": "",
+        "thrombosis": false,
+        "pacemaker": false,
+        "pregnant": false,
+        "diabetic": false,
+        "varicose": false,
+        "cancer": false,
+        "heart_condition": false,
+        "blood_pressure": false,
+        "smoke": false,
+        "painkillers": false,
+        "menopause": false,
+        "medication": {
+          "answer": false,
+          "details": ""
+        },
+        "severe_headache": {
+          "answer": false,
+          "details": ""
+        },
+        "autoimmune_disease": {
+          "answer": false,
+          "details": ""
+        },
+        "transplanted": {
+          "answer": false,
+          "details": ""
+        },
+        "surgical": {
+          "answer": false,
+          "details": ""
+        }
+      }
+    },
+    {
+      "id": "f77sdsd3",
+      "status": 2,
+      "name": "Maria Azevedo",
+      "age": 21,
+      "address": "Rua Sousa",
+      "neighborhood": "Belford Roxo",
+      "phone": "+55 (21)94532-2095",
+      "payments": {
+        "last_payment": "2023-09-01",
+        "next_payment": "2023-10-01"
+      },
+      "medical_record": {
+        "observations": "",
+        "main_complaints": "",
+        "thrombosis": false,
+        "pacemaker": false,
+        "pregnant": false,
+        "diabetic": false,
+        "varicose": false,
+        "cancer": false,
+        "heart_condition": false,
+        "blood_pressure": false,
+        "smoke": false,
+        "painkillers": false,
+        "menopause": false,
+        "medication": {
+          "answer": false,
+          "details": ""
+        },
+        "severe_headache": {
+          "answer": false,
+          "details": ""
+        },
+        "autoimmune_disease": {
+          "answer": false,
+          "details": ""
+        },
+        "transplanted": {
+          "answer": false,
+          "details": ""
+        },
+        "surgical": {
+          "answer": false,
+          "details": ""
+        }
+      }
+    },
+    {
+      "id": "f735fs73",
+      "status": 0,
+      "name": "Maria Azevedo",
+      "age": 21,
+      "address": "Rua Sousa",
+      "neighborhood": "Belford Roxo",
+      "phone": "+55 (21)94532-2095",
+      "payments": {
+        "last_payment": "2023-09-01",
+        "next_payment": "2023-10-01"
+      },
+      "medical_record": {
+        "observations": "",
+        "main_complaints": "",
+        "thrombosis": false,
+        "pacemaker": false,
+        "pregnant": false,
+        "diabetic": false,
+        "varicose": false,
+        "cancer": false,
+        "heart_condition": false,
+        "blood_pressure": false,
+        "smoke": false,
+        "painkillers": false,
+        "menopause": false,
+        "medication": {
+          "answer": false,
+          "details": ""
+        },
+        "severe_headache": {
+          "answer": false,
+          "details": ""
+        },
+        "autoimmune_disease": {
+          "answer": false,
+          "details": ""
+        },
+        "transplanted": {
+          "answer": false,
+          "details": ""
+        },
+        "surgical": {
+          "answer": false,
+          "details": ""
+        }
+      }
+    },
+    {
+      "id": "4d92sfds4",
+      "status": 2,
+      "avatar": "",
+      "name": "Breno Amarante",
+      "age": 21,
+      "phone": "+55 (21)96672-3695",
+      "address": "Rua Sousa",
+      "neighborhood": "Belford Roxo",
+      "payments": {
+        "last_payment": "2023-09-01",
+        "next_payment": "2023-10-01"
+      },
+      "medical_record": {
+        "observations": "Nothing",
+        "main_complaints": "Nothing here...",
+        "thrombosis": true,
+        "pacemaker": false,
+        "pregnant": false,
+        "diabetic": false,
+        "varicose": false,
+        "cancer": true,
+        "heart_condition": false,
+        "blood_pressure": true,
+        "smoke": false,
+        "painkillers": false,
+        "menopause": false,
+        "medication": {
+          "answer": false,
+          "details": ""
+        },
+        "severe_headache": {
+          "answer": true,
+          "details": "Nop"
+        },
+        "autoimmune_disease": {
+          "answer": false,
+          "details": ""
+        },
+        "transplanted": {
+          "answer": false,
+          "details": ""
+        },
+        "surgical": {
+          "answer": true,
+          "details": "Left Arm"
+        }
+      }
+    },
+    {
+      "id": "3210a8ad-e798-4a3b-bf11-23d949d6e59d",
+      "status": 0,
+      "avatar": "",
+      "name": "adasdasdad",
+      "age": "21",
+      "phone": "asdasdasd",
+      "address": "sdadsd",
+      "neighborhood": "sadasdasd",
+      "payments": {
+        "last_payment": "2024-10-13T22:47:06.289Z",
+        "next_payment": "2024-10-13T22:47:06.289Z"
+      },
+      "medical_record": {
+        "observations": "adadasd",
+        "main_complaints": "asdasdas",
+        "thrombosis": false,
+        "pacemaker": false,
+        "pregnant": false,
+        "diabetic": false,
+        "varicose": false,
+        "cancer": false,
+        "heart_condition": false,
+        "blood_pressure": false,
+        "smoke": false,
+        "painkillers": false,
+        "menopause": false,
+        "medication": {
+          "answer": false,
+          "details": ""
+        },
+        "severe_headache": {
+          "answer": false,
+          "details": ""
+        },
+        "autoimmune_disease": {
+          "answer": false,
+          "details": ""
+        },
+        "transplanted": {
+          "answer": false,
+          "details": ""
+        },
+        "surgical": {
+          "answer": false,
+          "details": ""
+        }
+      },
+      "": true
+    },
+    {
+      "id": "10511971-2dc1-47c5-ad47-4eae2287a1b0",
+      "status": 0,
+      "avatar": "",
+      "name": "adasdasdad",
+      "age": "21",
+      "phone": "asdasdasd",
+      "address": "sdadsd",
+      "neighborhood": "sadasdasd",
+      "payments": {
+        "last_payment": "2024-10-13T22:47:06.289Z",
+        "next_payment": "2024-10-13T22:47:06.289Z"
+      },
+      "medical_record": {
+        "observations": "adadasd",
+        "main_complaints": "asdasdas",
+        "thrombosis": false,
+        "pacemaker": false,
+        "pregnant": false,
+        "diabetic": false,
+        "varicose": false,
+        "cancer": false,
+        "heart_condition": false,
+        "blood_pressure": false,
+        "smoke": false,
+        "painkillers": false,
+        "menopause": false,
+        "medication": {
+          "answer": false,
+          "details": ""
+        },
+        "severe_headache": {
+          "answer": false,
+          "details": ""
+        },
+        "autoimmune_disease": {
+          "answer": false,
+          "details": ""
+        },
+        "transplanted": {
+          "answer": false,
+          "details": ""
+        },
+        "surgical": {
+          "answer": false,
+          "details": ""
+        }
+      },
+      "": true
+    },
+    {
+      "id": "234f47b5-2d2d-486d-9a72-0a10e96a9ab5",
+      "status": 0,
+      "avatar": "",
+      "name": "adasdasdad",
+      "age": "21",
+      "phone": "asdasdasd",
+      "address": "sdadsd",
+      "neighborhood": "sadasdasd",
+      "payments": {
+        "last_payment": "2024-10-13T22:47:06.289Z",
+        "next_payment": "2024-10-13T22:47:06.289Z"
+      },
+      "medical_record": {
+        "observations": "adadasd",
+        "main_complaints": "asdasdas",
+        "thrombosis": false,
+        "pacemaker": false,
+        "pregnant": false,
+        "diabetic": false,
+        "varicose": false,
+        "cancer": false,
+        "heart_condition": false,
+        "blood_pressure": false,
+        "smoke": false,
+        "painkillers": false,
+        "menopause": false,
+        "medication": {
+          "answer": false,
+          "details": ""
+        },
+        "severe_headache": {
+          "answer": false,
+          "details": ""
+        },
+        "autoimmune_disease": {
+          "answer": false,
+          "details": ""
+        },
+        "transplanted": {
+          "answer": false,
+          "details": ""
+        },
+        "surgical": {
+          "answer": false,
+          "details": ""
+        }
+      },
+      "": true
+    },
+    {
+      "id": "ff346074-ff15-458d-91a0-ff98d44d10f0",
+      "status": 0,
+      "avatar": "",
+      "name": "adasdasdad",
+      "age": "21",
+      "phone": "asdasdasd",
+      "address": "sdadsd",
+      "neighborhood": "sadasdasd",
+      "payments": {
+        "last_payment": "2024-10-13T22:47:06.289Z",
+        "next_payment": "2024-10-13T22:47:06.289Z"
+      },
+      "medical_record": {
+        "observations": "adadasd",
+        "main_complaints": "asdasdas",
+        "thrombosis": false,
+        "pacemaker": false,
+        "pregnant": false,
+        "diabetic": false,
+        "varicose": false,
+        "cancer": false,
+        "heart_condition": false,
+        "blood_pressure": false,
+        "smoke": false,
+        "painkillers": false,
+        "menopause": false,
+        "medication": {
+          "answer": false,
+          "details": ""
+        },
+        "severe_headache": {
+          "answer": false,
+          "details": ""
+        },
+        "autoimmune_disease": {
+          "answer": false,
+          "details": ""
+        },
+        "transplanted": {
+          "answer": false,
+          "details": ""
+        },
+        "surgical": {
+          "answer": false,
+          "details": ""
+        }
+      },
+      "": true
+    },
+    {
+      "id": "6650aae9-b8cf-4ba9-b3ac-56f18eb84615",
+      "status": 0,
+      "avatar": "",
+      "name": "adasdasdad",
+      "age": "21",
+      "phone": "asdasdasd",
+      "address": "sdadsd",
+      "neighborhood": "sadasdasd",
+      "payments": {
+        "last_payment": "2024-10-13T22:47:06.289Z",
+        "next_payment": "2024-10-13T22:47:06.289Z"
+      },
+      "medical_record": {
+        "observations": "adadasd",
+        "main_complaints": "asdasdas",
+        "thrombosis": false,
+        "pacemaker": false,
+        "pregnant": false,
+        "diabetic": false,
+        "varicose": false,
+        "cancer": false,
+        "heart_condition": false,
+        "blood_pressure": false,
+        "smoke": false,
+        "painkillers": false,
+        "menopause": false,
+        "medication": {
+          "answer": false,
+          "details": ""
+        },
+        "severe_headache": {
+          "answer": false,
+          "details": ""
+        },
+        "autoimmune_disease": {
+          "answer": false,
+          "details": ""
+        },
+        "transplanted": {
+          "answer": false,
+          "details": ""
+        },
+        "surgical": {
+          "answer": false,
+          "details": ""
+        }
+      },
+      "": true
+    },
+    {
+      "id": "30647b8e-b92d-4127-bd2e-1554bac240f4",
+      "status": 0,
+      "avatar": "",
+      "name": "adasdasdad",
+      "age": "21",
+      "phone": "asdasdasd",
+      "address": "sdadsd",
+      "neighborhood": "sadasdasd",
+      "payments": {
+        "last_payment": "2024-10-13T22:47:06.289Z",
+        "next_payment": "2024-10-13T22:47:06.289Z"
+      },
+      "medical_record": {
+        "observations": "adadasd",
+        "main_complaints": "asdasdas",
+        "thrombosis": false,
+        "pacemaker": false,
+        "pregnant": false,
+        "diabetic": false,
+        "varicose": false,
+        "cancer": false,
+        "heart_condition": false,
+        "blood_pressure": false,
+        "smoke": false,
+        "painkillers": false,
+        "menopause": false,
+        "medication": {
+          "answer": false,
+          "details": ""
+        },
+        "severe_headache": {
+          "answer": false,
+          "details": ""
+        },
+        "autoimmune_disease": {
+          "answer": false,
+          "details": ""
+        },
+        "transplanted": {
+          "answer": false,
+          "details": ""
+        },
+        "surgical": {
+          "answer": false,
+          "details": ""
+        }
+      },
+      "": true
+    }
+  ]
+}

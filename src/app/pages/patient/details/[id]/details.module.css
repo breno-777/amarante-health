@@ -1,0 +1,92 @@
+.container {
+    position: relative;
+    overflow-y: auto;
+    height: 100%;
+    padding: 2em 4em;
+}
+
+.container .patient_details_grid {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 2em;
+}
+
+.sidebar_container {
+    display: flex;
+    flex-direction: column;
+    animation: leftSlide 0.5s ease-in-out;
+}
+
+@keyframes leftSlide {
+    0% {
+        opacity: 0;
+        transform: translateX(-40px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateX(0px);
+    }
+}
+
+.patient_avatar {
+    max-width: 128px;
+    max-height: 128px;
+    width: 100%;
+    height: auto;
+
+    border-radius: 1em;
+    border: 1px solid rgba(var(--primary), 1);
+}
+
+.sidebar_container p {
+    font-size: 1em;
+
+}
+
+.sidebar_container span {
+    font-size: 0.8em;
+}
+
+.patient_records {
+    display: flex;
+    flex-direction: column;
+    gap: 1.75em;
+    animation: rightSlide 0.5s ease-in-out;
+}
+
+@keyframes rightSlide {
+    0% {
+        opacity: 0;
+        transform: translateX(40px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateX(0px);
+    }
+}
+
+.patient_appointments {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 0.4em;
+
+    border-bottom: 1px solid rgba(var(--primary), 0.2);
+}
+
+.patient_appointments .header {
+    font-size: 1em;
+}
+
+.patient_appointments .date {
+    font-size: 1.2em;
+}
+
+.patient_appointments .days {
+    font-size: 0.8em;
+}
+
+.sidebar_container span {
+    color: rgba(var(--primary), 0.8);
+}

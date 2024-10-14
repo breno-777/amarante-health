@@ -1,0 +1,32 @@
+.section_title {
+    font-size: 1em;
+    padding-bottom: 0.4em;
+}
+
+.section_details {
+    color: rgba(var(--primary), 0.8);
+}
+
+.section_details.not_available {
+    color: rgba(var(--primary), 0.4);
+}
+
+.show_more_container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 0.4em;
+}
+
+.show_more_container p {
+    border-bottom: 1px solid rgba(var(--primary), 0.2);
+    width: 100%;
+    text-align: center;
+}
+
+.more_parent {
+    height: 0px;
+    overflow: hidden;
+    transition: height ease 0.3s;
+}

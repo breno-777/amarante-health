@@ -1,0 +1,27 @@
+.dropdown_overlay {
+    display: none;
+}
+
+.dropdown_overlay.is_active {
+    display: block;
+    overflow: hidden;
+    position: fixed;
+    right: 6em;
+
+    border-radius: 0.8em;
+    border: 1px solid rgba(var(--secondary), 0.8);
+    background-color: var(--background);
+    text-decoration: none;
+}
+
+.dropdown_content ul li {
+    padding: 0.6em 1em;
+    border-bottom: 1px solid rgba(var(--primary), 0.2);
+
+    list-style: none;
+    cursor: pointer;
+}
+
+.dropdown_content ul li:hover {
+    background-color: rgba(var(--primary), 0.4);
+}

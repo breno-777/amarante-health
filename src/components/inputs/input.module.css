@@ -1,0 +1,39 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+    position: relative;
+    width: 100%;
+}
+
+.container .label {
+    padding-left: 6px;
+    position: absolute;
+    top: -4px;
+    transition: 0.3s;
+    pointer-events: none;
+}
+
+.input {
+    font-size: 1em;
+    font-weight: 200;
+    color: rgba(var(--primary), 1);
+    width: 100%;
+
+    outline: none;
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid rgba(var(--primary), 0.4);
+}
+
+.label{
+    padding-top: 0.1em;
+}
+
+.container .input:focus~.label,
+.container .input:valid~.label {
+    transition: 0.3s;
+    padding-left: 0;
+    transform: translateY(-16px);
+    color: rgba(var(--primary), 0.4);
+}

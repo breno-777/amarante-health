@@ -1,0 +1,37 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+    height: 100%;
+
+    gap: 1em;
+
+    padding: 2em 4em;
+}
+
+.patient_list {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
+.patient_list table thead th {
+    font-weight: 400;
+}
+
+.empty_patient_list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 100%;
+}
+
+.empty_patient_list>div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    gap: 1em;
+    opacity: 0.4;
+}
